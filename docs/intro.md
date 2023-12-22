@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Connect, Explore, Thrive: Your Ultimate Guide for Studying in France as International Student.
 
 ## Getting Started
 
