@@ -1,34 +1,29 @@
 ---
 sidebar_position: 3
+id: open-a-bank-account
+title: Open a Bank account
+description: The CVEC is the Student and Campus Life Contribution. It is mandotary for all students in France to pay this amount.
+# tags:
+#   - Demo
+#   - Getting started
 ---
 
-# Create a Blog Post
+# Open a Bank account
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+A foreign student can open a bank account in any bank in France. The different banks have branches in most cities; just open the door and make an appointment with a counsellor.
 
-## Create your first Post
+Below documents are needed to open a bank account:
 
-Create a file at `blog/2021-02-28-greetings.md`:
+- Passport
+- Visa
+- An attestation of enrolment or a student card
+- Housing proof (Rental contract or Registration letter)
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
+:::info
+If you are living at a relative place : "Attestation d'hebergement" = Attestation saying that you live there + proof of housing from that person + copy of his/her ID (residential permit)
+:::
 
-Congratulations, you have made your first post!
+You'll need a French bank account for the following:
 
-Feel free to play around and edit this post as much you like.
-```
-
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+- Enroll and pay your transportation subscription monthly.
+-
