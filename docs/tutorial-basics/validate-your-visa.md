@@ -14,7 +14,8 @@ If you came to France with a long stay visa used as residence permit (VLS-TS in 
 
 - [Validate your VLS-TS long stay visa](https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/vls-ts/demarches/etape/numero-visa)
 
-What do you need to validate your VLS-TS visa?
+## What do you need to validate your VLS-TS visa?
+
 You will need:
 
 - a valid email address,
@@ -42,7 +43,7 @@ What if you do not have a bank card?<br/>
 - You can ask your friend to make the payment and settle the cost with them.
   :::
 
-#### WHY IS IT IMPORTANT TO VALIDATE YOUR VLS-TS VISA?
+## Why is it important to validate your VLS-TS Visa?
 
 - Lawfully remain in France for your visa's entire validity period.
 - Leave France, beyond the 3 months following your arrival, without asking for a visa to come back.

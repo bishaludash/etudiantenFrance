@@ -1,5 +1,10 @@
 ---
 sidebar_position: 1
+id: getting-started
+title: Getting Started
+# tags:
+#   - Demo
+#   - Getting started
 ---
 
 # Getting Started
@@ -77,7 +82,7 @@ If you are not a European Union national, complete the procedures to [obtain you
   ```
   - Identity card
   - Passport
-  - Birth certificate (English/French translated and certified copy)
+  - Birth certificate (French translated and certified copy [VERY IMPORTANT !!])
   - Driving licence (if you are planning on driving in France).
   ```
 

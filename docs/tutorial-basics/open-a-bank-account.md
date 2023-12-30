@@ -12,7 +12,7 @@ description: The CVEC is the Student and Campus Life Contribution. It is mandota
 
 A foreign student can open a bank account in any bank in France. The different banks have branches in most cities; just open the door and make an appointment with a counsellor.
 
-Below documents are needed to open a bank account:
+### Documents needed to open a bank account:
 
 - Passport
 - Visa
@@ -20,10 +20,17 @@ Below documents are needed to open a bank account:
 - Housing proof (Rental contract or Registration letter)
 
 :::info
-If you are living at a relative place : "Attestation d'hebergement" = Attestation saying that you live there + proof of housing from that person + copy of his/her ID (residential permit)
+If you are living at a relative place : ["Attestation d'hebergement"](https://www.service-public.fr/simulateur/calcul/AttestationHebergement) = Attestation saying that you live there + proof of housing from that person + copy of his/her ID (residential permit)
 :::
 
 You'll need a French bank account for the following:
 
 - Enroll and pay your transportation subscription monthly.
--
+- Enroll and get reimbursement from the French universal health system (Social Security)
+- Pay your rent and tution fee by bank transfer
+- Get CAF financial help (housing subsidy from French government)
+- Any other subscription (phone, internet)
+
+:::tip
+Be careful: Never give original documents away. The bank will make copies!
+:::
