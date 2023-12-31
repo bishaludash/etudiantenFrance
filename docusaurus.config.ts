@@ -3,9 +3,9 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Etudiant in France",
-  tagline: "Dinosaurs are cool",
-  favicon: "img/favicon.ico",
+  title: "Vive La Study",
+  tagline: "Guiding Your Journey, Settling Your Success in France!",
+  favicon: "img/vivelafrance-transparent.png",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
@@ -63,10 +63,10 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "Etudiant in France", //Menu title
+      title: "Vive La Study", //Menu title
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/vivelafrance-transparent.png",
       },
       items: [
         {

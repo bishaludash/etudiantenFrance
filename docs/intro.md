@@ -15,7 +15,16 @@ Connect, Explore, Thrive: Your Ultimate Guide for Studying in France as Internat
 
 Before you arrive in France, start looking for [accommodation](https://www.campusfrance.org/en/student-housing-france) as soon as possible. You can complete some procedures from abroad. If you are planning on looking for lodging when you arrive in France, remember to reserve temporary lodging until you can find somewhere permanent.
 
-![Villejuif Sharing Room](./images/Villejuif.jpg)
+<center>
+  <figure>
+    ![Villejuif Sharing Room](./images/Villejuif.jpg)
+    <figcaption>
+      <small>
+        Villejuif Sharing Room
+      </small>
+    </figcaption>
+  </figure>
+</center>
 
 ### One month before your departure
 
