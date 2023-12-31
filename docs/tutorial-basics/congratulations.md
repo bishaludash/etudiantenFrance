@@ -12,5 +12,12 @@ Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://
 
 ## What's next? comming soon
 
+- Read the `CAF`
+- Read the `Housing Insurance`
 - Read the `Transportation Subsidy`
+- Read the `VISA Renewal Process`
+- Read the `Working in France on a Student Visa`
+- Read the `Choosing a Referring Doctor`
+- Read the `Ameli account & Carte Vitale`
+- Read the `Getting medicines from the Pharmacy`
 - Get involved in the [Etudian en France Community](https://github.com/bishaludash/etudiantenFrance/issues)
