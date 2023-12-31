@@ -26,7 +26,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "fr"],
+    locales: ["en"],
   },
 
   presets: [
@@ -82,7 +82,7 @@ const config: Config = {
         //   position: "right",
         // },
         {
-          href: "https://github.com/bishaludash/etudiantenFrance",
+          href: "https://github.com/bishaludash/vivelastudy",
           label: "GitHub",
           position: "right",
         },

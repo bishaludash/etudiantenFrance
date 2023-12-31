@@ -10,7 +10,7 @@ You have just learned the **mandatory administrative and basics tasks** you need
 - Check out the library at your institute to make sure that your library card works properly (your student card often doubles as a library card).
 - Also visit the CROUS department to get information on catering options, cultural activities and other benefits.
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/bishaludash/etudiantenFrance/issues)
+Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/bishaludash/vivelastudy/issues)
 
 ## What's next? comming soon
 
@@ -20,4 +20,4 @@ Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://
 - Read the `Transportation Subsidy`
 - Read the `VISA Renewal Process`
 - Read the `Working in France on a Student Visa`
-- Get involved in the [Etudian en France Community](https://github.com/bishaludash/etudiantenFrance/issues)
+- Get involved in the [Vive la Study Community](https://github.com/bishaludash/vivelastudy/issues)
