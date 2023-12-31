@@ -4,13 +4,20 @@ sidebar_position: 6
 
 # Congratulations!
 
-You have just learned the **mandatory administrative and basics tasks** you need to perform after comming to France.
+You have just learned the **mandatory administrative and basics tasks** you need to perform after comming to France. Other things you could do during the first month are :
 
-<!-- Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**. -->
+- Go to the Admissions Department of your institute to obtain your timetable.
+- Check out the library at your institute to make sure that your library card works properly (your student card often doubles as a library card).
+- Also visit the CROUS department to get information on catering options, cultural activities and other benefits.
 
 Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/bishaludash/etudiantenFrance/issues)
 
 ## What's next? comming soon
 
+- Read the `CAF and Housing Insurance`
+- Read the `Ameli account & Carte Vitale`
+- Read the `Choosing a Referring Doctor`
 - Read the `Transportation Subsidy`
+- Read the `VISA Renewal Process`
+- Read the `Working in France on a Student Visa`
 - Get involved in the [Etudian en France Community](https://github.com/bishaludash/etudiantenFrance/issues)
