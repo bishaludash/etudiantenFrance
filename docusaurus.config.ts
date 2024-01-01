@@ -62,7 +62,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     // Replace with your project's social card
-    image: "img/vlf-social-card",
+    image: "img/vlf-social-card.png",
     navbar: {
       title: "Vive La Study", //Menu title
       logo: {
