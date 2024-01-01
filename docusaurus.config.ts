@@ -3,20 +3,21 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Etudiant in France",
-  tagline: "Dinosaurs are cool",
-  favicon: "img/favicon.ico",
+  title: "Vive La Study",
+  tagline: "Guiding Your Journey, Settling Your Success in France!",
+  favicon: "img/vivelafrance-transparent.png",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://bishaludash.com.np",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/vivelastudy/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "bishaludash", // Usually your GitHub org/user name.
+  projectName: "vivelastudy", // Usually your repo name.'
+  deploymentBranch: "gh-pages",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -26,7 +27,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "fr"],
+    locales: ["en"],
   },
 
   presets: [
@@ -61,12 +62,12 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     // Replace with your project's social card
-    image: "img/docusaurus-social-card.jpg",
+    image: "img/vlf-social-card.png",
     navbar: {
-      title: "Etudiant in France", //Menu title
+      title: "Vive La Study", //Menu title
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/vivelafrance-transparent.png",
       },
       items: [
         {
@@ -82,7 +83,7 @@ const config: Config = {
         //   position: "right",
         // },
         {
-          href: "https://github.com/bishaludash/etudiantenFrance",
+          href: "https://github.com/bishaludash/vivelastudy",
           label: "GitHub",
           position: "right",
         },
