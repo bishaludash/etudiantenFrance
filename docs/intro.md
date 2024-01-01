@@ -11,6 +11,10 @@ title: Getting Started
 
 Connect, Explore, Thrive: Your Ultimate Guide for Studying in France as International Student.
 
+### French Language
+
+While it's possible to navigate life in France with only English, learning French demonstrates a proactive approach to cultural immersion and can greatly enrich the overall study abroad experience. Even a basic proficiency in French can go a long way in fostering a deeper connection to the local community and enhancing the overall educational journey.
+
 ### As soon as possible
 
 Before you arrive in France, start looking for [accommodation](https://www.campusfrance.org/en/student-housing-france) as soon as possible. You can complete some procedures from abroad. If you are planning on looking for lodging when you arrive in France, remember to reserve temporary lodging until you can find somewhere permanent.

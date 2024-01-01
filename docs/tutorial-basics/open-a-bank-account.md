@@ -33,4 +33,8 @@ You'll need a French bank account for the following:
 
 :::tip
 Be careful: Never give original documents away. The bank will make copies!
+
+DO NOT BE LATE, for a bank appointment if you are
+late 10 mins they will cancel your appointment. Being late is
+considered very disrespectful here.
 :::
