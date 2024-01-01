@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunketudianten_france=self.webpackChunketudianten_france||[]).push([[617],{2270:e=>{e.exports=JSON.parse('{"label":"Expense","permalink":"/vivelastudy/blog/tags/expense","allTagsPath":"/vivelastudy/blog/tags","count":1,"unlisted":false}')}}]);

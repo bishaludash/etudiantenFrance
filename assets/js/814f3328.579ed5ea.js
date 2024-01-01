@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunketudianten_france=self.webpackChunketudianten_france||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Where to buy Groceries ?","permalink":"/vivelastudy/blog/where-to-buy-groceries","unlisted":false}]}')}}]);
