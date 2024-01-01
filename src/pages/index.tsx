@@ -34,7 +34,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description=" A curated wealth of information tailored specifically for international students, covering everything from visa processes and accommodation options to cultural insights and local tips."
     >
       <HomepageHeader />
       <main>
