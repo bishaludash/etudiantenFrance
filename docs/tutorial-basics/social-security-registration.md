@@ -44,3 +44,13 @@ Link to the registration page : [https://etudiant-etranger.ameli.fr](https://etu
 :::tip
 Social Security provides foreign students with social coverage while studying in France. To increase the amount of their healthcare expenses that is reimbursed, they may take out complementary health insurance, or mutuelle.
 :::
+
+<iframe  
+  width="100%" 
+  height="500"  
+  src="https://www.youtube.com/embed/qEpy9Xr9UKk?si=BeaSJgGn_Caju3iQ" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
