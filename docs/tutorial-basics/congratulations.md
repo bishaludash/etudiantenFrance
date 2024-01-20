@@ -19,5 +19,5 @@ Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://
 - Read the `Choosing a Referring Doctor`
 - Read the `Transportation Subsidy`
 - Read the `VISA Renewal Process`
-- Read the `Working on a Student Visa`
+- Read the `Working in France on a Student Visa`
 - Get involved in the [Vive la Study Community](https://github.com/bishaludash/vivelastudy/issues)
