@@ -28,7 +28,8 @@ We'd like to thank all of our contributors:
             <sub><b>CodeSlinger007</b></sub>
             </a>
         </td>
-
+      
+      <!-- Example Sample -->
       <!-- <td align="center" valign="top" width="14.28%"><a href="http://matheu.srv.br"><img src="https://avatars0.githubusercontent.com/u/23284276?v=4?s=100" width="100px;" alt="Matheus Rocha Vieira"/><br /><sub><b>Matheus Rocha Vieira</b></sub></a><br /><a href="#translation-MatheusRV" title="Translation">🌍</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=MatheusRV" title="Code">💻</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=MatheusRV" title="Documentation">📖</a></td> -->
     </tr>
 
