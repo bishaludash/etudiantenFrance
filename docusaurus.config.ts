@@ -78,7 +78,6 @@ const config: Config = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         { to: "/about", label: "About", position: "left" },
-        { to: "/contributors", label: "Contributors", position: "left" },
         // {
         //   type: "localeDropdown",
         //   position: "right",
