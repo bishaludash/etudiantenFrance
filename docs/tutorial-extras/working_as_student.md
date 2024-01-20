@@ -1,13 +1,13 @@
 ---
 sidebar_position: 6
 id: working_as_student
-title: Working in France on a Student Visa
+title: Working on a Student Visa
 # description: The CVEC is the Student and Campus Life Contribution. It is mandotary for all students in France to pay this amount.
 # tags:
 #   - Demo
 #   - Getting started
 ---
 
-# Working in France on a Student Visa
+# Working on a Student Visa
 
 Comming soon...
