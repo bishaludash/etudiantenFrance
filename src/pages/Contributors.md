@@ -25,7 +25,13 @@ We'd like to thank all of our contributors:
         <td align="center" valign="top" width="14.28%">
             <a target="_blank" rel="noreferrer" href="https://github.com/CodeSlinger007">
             <img src="https://avatars.githubusercontent.com/u/149875708?v=4" width="100px;" alt="CodeSlinger007"/><br />
-            <sub><b>CodeSlinger007</b></sub>
+            <sub><b>Sebastian B Chennattu</b></sub>
+            </a>
+        </td> 
+        <td align="center" valign="top" width="14.28%">
+            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/yingdi-su-563176220/">
+            <img src="https://avatars.githubusercontent.com/u/90942498?v=4" width="100px;" alt="Wendy"/><br />
+            <sub><b>Yingdi (Wendy) Su</b></sub>
             </a>
         </td>
       
